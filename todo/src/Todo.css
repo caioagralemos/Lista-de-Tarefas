@@ -1,0 +1,16 @@
+button {
+    display: inline;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 255, 0.677);
+    color: white;
+    font-size: 7px;
+    border-radius: 10%;
+    border: none;
+    width: 40px;
+    height: 20px;
+}
+
+.done-task{
+    color: rgba(128, 128, 128, 0.323);
+    text-decoration: line-through;
+}
